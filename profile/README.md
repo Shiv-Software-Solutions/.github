@@ -49,6 +49,6 @@ We are excited to work with you on your next software project. Whether you have 
 - **Email**: info@shivsoftware.example.com
 - **Phone**: +1-123-456-7890
 - **LinkedIn**: [Shiv Software Solutions on LinkedIn](https://www.linkedin.com/company/shivsoftware)
-- **GitHub**: [Shiv Software Solutions on GitHub](https://github.com/shivsoftware)
+- **GitHub**: [Shiv Software Solutions on GitHub](https://github.com/Shiv-Software-Solutions)
 
 Let's make your software dreams a reality with Shiv Software Solutions.
